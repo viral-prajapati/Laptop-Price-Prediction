@@ -67,5 +67,5 @@ def main():
         st.success("₹{}".format(round(result, 2)))
     
 if __name__=='__main__':
-    st.balloons()
+    # st.balloons()
     main()
